@@ -1,9 +1,8 @@
 {
   "name": "cim-api-service",
-  "version": "0.1",
+  "version": "0.0.1",
   "main": "dist/bundle.js",
   "license": "MIT",
-  "private": true,
   "dependencies": {
     "axios": "^0.20.0",
     "esm": "^3.2.25",
