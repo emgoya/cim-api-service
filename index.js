@@ -1,4 +1,4 @@
-import CIMApiService from "./src/CIMApiService";
+const CIMApiService = require('./src/CIMApiService').CIMApiService;
 
 const fs = require('fs');
 const rawData = fs.readFileSync('./config.json');

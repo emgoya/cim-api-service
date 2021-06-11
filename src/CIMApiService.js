@@ -15,7 +15,7 @@ const aInstance = Axios.create({
  * Store the access token
  * Fetch a list of authConfig.testing-url endpoint and prints it on commandline
  */
-export default class CIMApiService {
+class CIMApiService {
 
     constructor(config) {
         this.config = config;
