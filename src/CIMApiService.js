@@ -156,6 +156,8 @@ export default class CIMApiService {
 
 }
 
+module.exports.CIMApiService = CIMApiService;
+
 
 
 
