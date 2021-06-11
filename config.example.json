@@ -1,0 +1,15 @@
+{
+  "authConfig": {
+    "url_prefix" : "",
+    "auth_url" : "/oauth/v2/token",
+    "client_id" : "",
+    "client_secret" : "",
+    "testing_url" : "/api/ingredients/list",
+    "grant_type" : "password"
+  },
+  "authData": {
+    "username": "",
+    "password": ""
+  },
+  "debug": true
+}
